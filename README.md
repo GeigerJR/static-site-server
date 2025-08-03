@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Static Site Server</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f8f9fa;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #005f73;
-    }
-    code, pre {
-      background-color: #e8e8e8;
-      padding: 0.5em;
-      border-radius: 5px;
-      display: block;
-      overflow-x: auto;
-    }
-    .badge {
-      display: inline-block;
-      margin-right: 10px;
-      margin-bottom: 10px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Static Site Server</h1>
+<h1>Static Site Server</h1>
 
   <p>This project demonstrates how to set up a simple Linux server using <strong>AWS EC2</strong> to serve a static website using <strong>NGINX</strong> and <strong>rsync</strong> for deployment.</p>
 
